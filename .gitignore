@@ -1,0 +1,6 @@
+secrets.txt
+file5.txt
+
+#adding a comment
+*.docx
+*.xlsx
